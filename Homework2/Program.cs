@@ -6,3 +6,5 @@ Console.ForegroundColor = ConsoleColor.Magenta;
 Console.WriteLine("Please input your text here:");
 string inputFromUser = Console.ReadLine();
 Console.WriteLine($"You input was: {inputFromUser}");
+
+Console.WriteLine("Bye, bye for now.");
