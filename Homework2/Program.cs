@@ -12,11 +12,6 @@ Console.WriteLine("Bye, bye for now.");
 */
 
 #region Exercise 1
-using static System.Runtime.InteropServices.JavaScript.JSType;
-using System.Numerics;
-using System.Collections.Generic;
-using System.Reflection;
-
 static int CheckTheInterval(int a, int b, int n)
 {
     var result = 0;
